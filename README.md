@@ -5,7 +5,7 @@
 
 <p align="left">My name is Anisha Ajit and I'm a student, from MSRIT, Bengaluru</p>
 
-
+<p>This pull requst is to be updated in project</p>
 
 <h2 align="left">About me</h2>
 
