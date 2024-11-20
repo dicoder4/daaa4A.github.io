@@ -47,6 +47,8 @@
   <li>Front end development</li>
   <li>Database Management</li>
   <li>Coding</li>
+  <li><h3>These changes are made using a pull request</h3></li>
+  <li>Other skills also include: communication, determination, hard work and persistence</li>
   
 </ul>
 
